@@ -1,5 +1,9 @@
 # 💫 About Me:
-Full Stack & AI Engineer 
+Latif Abderrahmane – Information Systems & Digital Transformation Engineer | Full-Stack Developer | Automation & AI Specialist
+
+I am an experienced Information Systems and Digital Transformation Engineer from Morocco, with a strong background in building scalable, high-performance digital solutions. I specialize in Next.js, Supabase, and n8n, and I work with AI agents such as Crew AI to design intelligent automation workflows.
+
+As a freelancer, I collaborate with clients to deliver innovative, secure, and efficient web and automation solutions that drive business transformation. Passionate about emerging technologies, I focus on combining digital strategy, automation, and AI to solve complex real-world problems.
 
 
 # 💻 Tech Stack:
