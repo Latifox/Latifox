@@ -84,15 +84,7 @@ npx find-me-saas init
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Latifox&theme=github_dark" alt="profile summary" />
 
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Latifox&theme=github_dark" alt="languages by repo" />
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Latifox&theme=github_dark" alt="languages by commit" />
 
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Latifox&theme=github_dark" alt="stats" />
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Latifox&theme=github_dark&utcOffset=1" alt="productive time" />
-
-<img src="https://streak-stats.demolab.com?user=Latifox&theme=cobalt&hide_border=true" alt="streak" />
-
-<img src="https://ghchart.rshah.org/D97757/Latifox" alt="contribution graph" width="800" />
 
 </div>
 
